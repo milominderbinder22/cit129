@@ -1,0 +1,23 @@
+[I 00:06:10.534 LabApp] The port 8888 is already in use, trying another port.
+[I 00:06:10.534 LabApp] The port 8889 is already in use, trying another port.
+[I 00:06:10.534 LabApp] The port 8890 is already in use, trying another port.
+[I 00:06:10.784 LabApp] JupyterLab beta preview extension loaded from C:\Users\puter\Anaconda3\lib\site-packages\jupyterlab
+[I 00:06:10.784 LabApp] JupyterLab application directory is C:\Users\puter\Anaconda3\share\jupyter\lab
+[I 00:06:10.972 LabApp] Serving notebooks from local directory: C:\Users\puter
+[I 00:06:10.972 LabApp] 0 active kernels
+[I 00:06:10.972 LabApp] The Jupyter Notebook is running at:
+[I 00:06:10.972 LabApp] http://localhost:8891/?token=23cb8782c5135658c86fec26dbe556283951d5c668fb6b46
+[I 00:06:10.972 LabApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 00:06:10.972 LabApp] 
+    
+    Copy/paste this URL into your browser when you connect for the first time,
+    to login with a token:
+        http://localhost:8891/?token=23cb8782c5135658c86fec26dbe556283951d5c668fb6b46
+[I 00:06:13.737 LabApp] Accepting one-time-token-authenticated connection from ::1
+[I 00:06:18.762 LabApp] Build is up to date
+[I 00:06:36.010 LabApp] Kernel started: bd0d8aaf-a1b3-4958-9fff-efebbde0a059
+[I 00:06:38.947 LabApp] Adapting to protocol v5.1 for kernel bd0d8aaf-a1b3-4958-9fff-efebbde0a059
+[I 00:06:38.963 LabApp] Adapting to protocol v5.1 for kernel bd0d8aaf-a1b3-4958-9fff-efebbde0a059
+[I 00:06:38.994 LabApp] Adapting to protocol v5.1 for kernel bd0d8aaf-a1b3-4958-9fff-efebbde0a059
+[I 00:06:59.400 LabApp] Copying cit129 class 3.ipynb to /
+[W 00:07:10.496 LabApp] delete /cit129 class 3-Copy1.ipynb
