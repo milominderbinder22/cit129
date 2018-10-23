@@ -13,8 +13,8 @@ with open('giphyAPIkey.txt','r') as infile:
 ## put this up a directory, a la coral's trick
 
 #searchTerm="ryan+gosling"
-searchTerm="kitties"
-searchLimit=101
+searchTerm="simpsons"
+searchLimit=300
 
 ## tried to make a variable to hold the gif type we'd like to extract...
 ## (but it didn't work this way)
@@ -76,7 +76,7 @@ CONTROL BELOW:
 ## requests JSON
 ##def getMeSomeGifs(typeOfGifs,numberOfGifs):
     
-req=urllib.request.Request(queryTerm)
+req=urllib.request.Request(trending)
 with urllib.request.urlopen(req) as response:
     mypage=response.read()
 result=json.loads(mypage)
